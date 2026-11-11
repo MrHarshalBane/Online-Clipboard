@@ -152,3 +152,5 @@ Contributions welcome! Please read our [Contributing Guide](CONTRIBUTING.md) for
 ---
 
 Built with ❤️ for developers who value privacy.
+
+<!-- Co-authored with Ekanshi Goyal -->
